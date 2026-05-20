@@ -41,7 +41,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-!IMG_4339.PNG)
+!(IMG_4339.PNG)
 
 # 2. Memoria del proyecto 
 
