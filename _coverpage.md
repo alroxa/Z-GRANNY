@@ -6,13 +6,13 @@
 
 
 <!---- Portada ----> 
-<img align="center" src="WalkingGirl_front01.png" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="IMG_4339.PNG" width="300" height=auto alt="Logotipo"/>
 
 
 
 
 
-### Proyecto realizado por:
+### Proyecto realizado por: Alberto Rocha Campillo
 
 ### Enlace a Itch.io: ____________
 
