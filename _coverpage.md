@@ -14,7 +14,7 @@
 
 ### Proyecto realizado por: Alberto Rocha Campillo
 
-### Enlace a Itch.io: ____________
+### Enlace a Itch.io: https://albert0r0cha.itch.io/z-granny
 
 #### Facultad de Bellas Artes. Universidad de Granada, 202X
 
