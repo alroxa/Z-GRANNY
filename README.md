@@ -15,7 +15,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Autor:**  Alberto Rocha Campillo 
 
 
-**Resumen** : Tu abuela te envía una carta para que vayas a visitarla. Es la primera vez que vas a verla y estás muy nervioso, porque claro, estamos en el año 2092 y las cosas ya no son como antes. Una herencia, un gato IA y muchas plumas... ¿qué es lo peor que puede pasar?
+**Resumen** : Tu abuela te envía una carta para que vayas a visitarla. Es la primera vez que vas a verla y te invaden los nervios, porque claro, estamos en el año 2092 y las cosas ya no son como antes. Una herencia, un gato IA y muchas plumas... ¿qué es lo peor que puede pasar?
 
 **Estilo/género:**  Juego
 
