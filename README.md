@@ -10,11 +10,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Z-GRANNY
 
-**Web:**   (url github.io)
+**Web:**   https://albert0r0cha.itch.io/z-granny
 
 **Autor:**  Alberto Rocha Campillo 
 
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
 **Resumen** : Tu abuela te envía una carta para que vayas a visitarla. Es la primera vez que vas a verla y estás muy nervioso, porque claro, estamos en el año 2092 y las cosas ya no son como antes. Una herencia, un gato IA y muchas plumas... ¿qué es lo peor que puede pasar?
 
@@ -27,7 +26,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:**   Google Chrome
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 136MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -35,10 +34,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
-
+- Github: https://alroxa.github.io/Z-GRANNY/#/
+- Itch.io: https://albert0r0cha.itch.io/z-granny
+  
 
 ![img](IMG_4339.PNG)
 
@@ -65,7 +63,7 @@ El juego comienza con un menú con tres botones desplegables: el botón galería
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Para hacer este juego, he creado en primer lugar una escena de menú con botones interactivos y animaciones iniciales con animation player. También he incrustado un vídeo, pasándolo antes a archivo OGV. Para las escenas del juego, he creado un player con una cámara que le sigue a izquierda y derecha, y con áreas de colisión e interacción con los objetos interactuables que hay en el fondo. Además, he trabajado con el dialogic, creando estilos personalizados para las burbujas de texto, tanto para los personajes como para los objetos. Por último, el minijuego final lo he creado haciendo una escena aparte con el objeto de la pluma y sus propiedades y animación que debe hacer al clicarse, y luego en la escena minijuego lo he colocaado duplicado muchas veces, y he añadido un Timer.
 
 
 
@@ -80,7 +78,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+La motivación inicial para este proyecto fue hacer un juego cómico, con un estilo de dibujo característico en el que todo estuviese hecho por mí (menos la música, siendo esta de pixabay). 
 
 
 
@@ -106,7 +104,7 @@ Este  proyecto es interesante porque ...
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+(que consideras que no funciona correctamente y por qué )
 
 
 
