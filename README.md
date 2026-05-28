@@ -69,11 +69,11 @@ Para hacer este juego, he creado en primer lugar una escena de menú con botones
 
 ## Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+- Cucharacha, LeoGarru https://leogarru.itch.io/cucharacha
+- Lookouts https://paranoidhawk.itch.io/lookouts
+- Exhibit of Sorrows https://adayofjoy.itch.io/exhibit-of-sorrows
 
 
 **Motivación de la propuesta** 
@@ -84,7 +84,7 @@ La motivación inicial para este proyecto fue hacer un juego cómico, con un est
 
 **Publico / audiencia**
 
-- Orientado a un púlico joven, que ronde los 18 años. Aunque apto para todo tipo de público.
+- Orientado a un púlico joven, que ronde desde los 15 a los 25 años. Aunque apto para todo tipo de público.
 
 
 
@@ -94,23 +94,23 @@ La motivación inicial para este proyecto fue hacer un juego cómico, con un est
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- En cuanto al juego, como ya he mencionado anteriormente, he querido basarlo en un sistema de movimiento de personaje hacia los lados con interacción con objetos y diálogos.
+- Para la creación del vídeo de la intro, primero dibujé todos los elementos en Procreate y luego los animé en CapCut, siendo esta la forma más sencilla y cómoda que encontré para generar movimientos fluidos en un vídeo tan sencillo y corto. 
+- En cuanto a las instruciones y ayuda al usuario, hay un par de carteles que se despliegan en momentos del juego, como justo al empezar, que te avisa de los controles para moverte e interactuar con los objetos. Estos carteles con información son básicamente un CanvasLayer con un control, un label y un texture rect.
+- El menú y los elementos del mismo como la galería o los créditos son escenas aparte a las que se accede mediante botones. Algunos como los de las flechas para volver al menú principal, o los botones de izquierda y derecha para navegar por la galería están animados. La galería es una sola escena que va cambiando las imagenes (Sprites2D) y el texto (label) que se muestra al pulsar los botones.
 
 
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no funciona correctamente y por qué )
+Quizás el principal problema que he tenido en general a la hora de desarrollar este juego ha sido el tiempo y el nulo conocimiento sobre programación que tenía previo a esta asignatura. Al estar en la carrera y tener muchos trabajos que hacer a la vez de todas las materias me ha sido muy difícil sacar todo el tiempo que me hubiese gustado para desarrollar de forma más compleja y extensa el juego, puesto que he acabado cogiéndole gusto, pero entre tener que dibujar yo todo lo que se ve en el juego y programar, me ha llevado demasiado tiempo.
+Hay algunos errores visibles, como que al entrar al pasillo por primera vez o a la habitación de la abuela el fondo se ve cómo se recoloca en su sitio rápidamente en el primer segundo, o que el vídeo de la intro tiene muy baja calidad. Al igual que estos, han ido surgiendo mil errores que he intentado solucionar de forma efectiva y de manera que no afecten a la jugabilidad. 
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+En conclusión, considero que en estos meses, aunque haya sido de forma muy superficial y básica, he aprendido bastante sobre el mundo de la programación y cómo se hacen los videojuegos, que era algo que me generaba mucho interés, y para el tiempo que he tenido y la experiencia que tenía, estoy bastante satisfecho con el resultado, aunque sea un juego bastante corto. De cara a futuro me gustaría seguir explorando este campo para ver hasta dónde puedo llegar.
 
 
 
@@ -122,20 +122,20 @@ La motivación inicial para este proyecto fue hacer un juego cómico, con un est
 
 **Artículos y blogs** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica: pixabay.
+* Imágenes: todo dibujado por mí.
+* Tipografía: Super Bugly y Vintage Vibes (dafont.com).
 
 **Herramientas utilizadas**
 
-- Godot Engine 4.x
-- 
+- Godot Engine 4.0
+- Procreate
+- CapCut
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
 https://creativecommons.org/licenses/?lang=es
 
 * logos en https://creativecommons.org/mission/downloads/
